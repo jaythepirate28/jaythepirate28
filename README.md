@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaythepirate28
-- 👀 I’m interested in ... Lockpicking,Partner Swapping
+- 👀 I’m interested in ... Lockpicking,Telnet,IRC,Termux
 - 🌱 I’m currently learning ... how to ruin my phone with termux
 - 💞️ I’m looking to collaborate on ...NDE Presentations
 - 📫 How to reach me ...+17652425997
